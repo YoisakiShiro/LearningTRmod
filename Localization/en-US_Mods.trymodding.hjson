@@ -15,4 +15,22 @@ Items: {
 		DisplayName: not Basci Sword
 		Tooltip: This is not basic
 	}
+
+	PickaxeMaybe: {
+		DisplayName: PickaxeMaybe
+		Tooltip:
+			'''
+			This might be a pickaxe
+			but i'm not sure enough
+			'''
+	}
+
+	HamAxe: {
+		DisplayName: Basic HamAxe
+		Tooltip:
+			'''
+			A normal HamAxe
+			How about Combining the axe and hammer ?
+			'''
+	}
 }
